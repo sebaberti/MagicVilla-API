@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MagicVilla_API.Models
 {
     public class Villa
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         public string Name { get; set; }
@@ -16,7 +18,7 @@ namespace MagicVilla_API.Models
 
         public int Capacity { get; set; }
 
-        public double SquareMetres { get; set; }
+        public int SquareMetres { get; set; }
 
         public string ImgageUrl { get; set; }
 
