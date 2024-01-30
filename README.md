@@ -1,10 +1,12 @@
  <h1 align="center">API RESTfull en .NET 7</h1>
- -Solicitudes HTTP GET, POST, PUT, PATCH y DELETE.
- -DTO's en API.
- -Entity Framework Core.
- -Inyeccion de dependencia.
- -Patron de Repositorio.
- -Migraciones de Entity Framework Code First para guardar datos de forma 
- persistente en una base de datos SQL.
- -Documentacion de API.
- -AutoMapper.
+ <ul >
+ <li>Solicitudes HTTP GET, POST, PUT, PATCH y DELETE. </li>
+ <li>DTO's en API. </li>
+ <li>Entity Framework Core. </li>
+ <li>Inyeccion de dependencia. </li>
+ <li>Patron de Repositorio. </li>
+ <li>Migraciones de Entity Framework Code First para guardar datos de forma  </li>
+  persistente en una base de datos SQL. </li>
+ <li>Documentacion de API. </li>
+ <li>AutoMapper. </li>
+ </ul>
