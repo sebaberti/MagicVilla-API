@@ -1,4 +1,4 @@
- <h1>API RESTfull en .NET 7</h1>
+ <h1 align="center">API RESTfull en .NET 7</h1>
  -Solicitudes HTTP GET, POST, PUT, PATCH y DELETE.
  -DTO's en API.
  -Entity Framework Core.
